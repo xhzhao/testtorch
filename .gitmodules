@@ -1,0 +1,3 @@
+[submodule "extra/nn"]
+	path = extra/nn
+	url = https://github.com/xhzhao/nn.git
